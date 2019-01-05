@@ -40,6 +40,8 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-transform: uppercase;
+  letter-spacing: $letter-spacing;
 
   a::before {
     content: '';

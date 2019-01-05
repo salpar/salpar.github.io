@@ -41,8 +41,9 @@
   }
 
   > * {
-    margin-top: 1em;
+    margin-top: 4em;
     margin-bottom: 1em;
+    margin-left: 2em;
   }
 
   h2,
@@ -63,7 +64,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -116,7 +117,8 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: top;
+  text-align: center;
+  vertical-align: middle;
   width: 36px;
   height: 36px;
 
@@ -127,12 +129,11 @@
   }
 
   img {
-    max-width: 110px;
-    border-radius: 50%;
+    max-width: 80%;
+    border-radius: $border-radius;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
     }
   }
 }
@@ -165,6 +166,7 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;

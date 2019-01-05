@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Sally Park"
 title_separator          : "-"
-name                     : "Sally Park"
+name                     :
 description              : "Hello! I'm Sally."
 url                      : "https://www.salpar.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sally Park"
+  name             :
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "Hey! I am a 4th year Computer Science major at GA Tech,
-                        with a concentration in Front-End Development as well as UI/UX Design and Research. Feel free to reach out. ☕️🌱"
+  bio              : "Hey! I'm Sally, a 4th year Computer Science major at GA Tech.
+                        I focus on Front-End Development as well as UI/UX Design and Research. Feel free to reach out. ☕️🌱"
   location         : "Atlanta, GA"
   links:
     - label: "Email"

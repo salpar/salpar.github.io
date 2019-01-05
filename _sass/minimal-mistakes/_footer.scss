@@ -4,9 +4,9 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  float: center;
+  margin-left: 0em;
+  margin-right: 0em;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
@@ -28,7 +28,8 @@
     margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 2em 2em 2em 2em;
+    border-top: 1px solid $border-color;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

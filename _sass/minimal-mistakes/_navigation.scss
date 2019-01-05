@@ -184,13 +184,15 @@
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: $letter-spacing;
 
     &:hover {
       color: $masthead-link-color-hover;
     }
 
     &.site-title {
-      margin-left: 0;
+      margin-left: 2em;
     }
   }
 

@@ -14,13 +14,13 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: 'Karla', sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$oswald: 'Oswald', sans-serif;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -30,7 +30,7 @@ $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: $oswald !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
@@ -40,8 +40,8 @@ $type-size-3: 1em !default; // ~16px
 $type-size-4: 0.75em !default; // ~12px
 $type-size-5: 0.6875em !default; // ~11px
 $type-size-6: 0.625em !default; // ~10px
-$type-size-7: 0.500em !default; // ~9px
-$type-size-8: 0.438em !default; // ~8px
+$type-size-7: 0.563em !default; // ~9px
+$type-size-8: 0.500em !default; // ~8px
 
 /* letter spacing */
 $letter-spacing: 1px !default;
@@ -50,6 +50,7 @@ $letter-spacing: 1px !default;
    Colors
    ========================================================================== */
 
+$black: #000000 !default;
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
@@ -69,7 +70,7 @@ $primary-color: #6f777d !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
+$info-color: #fe7880 !default;
 $focus-color: $primary-color !default;
 
 /* YIQ color contrast */
@@ -105,11 +106,13 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 15%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color: $info-color !default;
+$link-color-hover: mix(#000, $link-color, 15%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$masthead-link-color-hover: $info-color !default;
+// $masthead-link-color: $primary-color !default;
+// $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
@@ -144,9 +147,9 @@ $x-large: 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow: 300px !default;
-$right-sidebar-width: 400px !default;
-$right-sidebar-width-wide: 500px !default;
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 300px !default;
+$right-sidebar-width-wide: 400px !default;
 
 /*
    Other

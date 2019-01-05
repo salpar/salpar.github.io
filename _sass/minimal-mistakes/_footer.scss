@@ -28,7 +28,7 @@
     margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
-    padding: 2em 2em 2em 2em;
+    padding: 2em 4em 2em 4em;
     border-top: 1px solid $border-color;
 
     @include breakpoint($x-large) {
@@ -41,7 +41,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $masthead-link-color-hover;
     }
   }
 

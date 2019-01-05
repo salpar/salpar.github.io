@@ -1,5 +1,4 @@
 ---
-title: Work
 layout: collection
 permalink: /work/
 collection: portfolio

@@ -24,6 +24,6 @@ In my free time, I enjoy filming and editing vlogs and travel videos for my pers
 
 You've heard about me, now let's talk about you. Send me a <a href="mailto:saeunx@gatech.edu">hello</a>. 👋
 
-{% include gallery id="layouts_gallery" caption="Take a peek at my life." %}
+{% include gallery id="layouts_gallery" %}
 
 ---

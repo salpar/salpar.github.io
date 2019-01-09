@@ -29,17 +29,16 @@ gallery:
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
-* IKEA Ribba Frame ($15)
-* RASBERRY PI 3 Essentials Kit ($40 - used)
-* PLANAR 22-inch LED Monitor ($60 - used)
-* Mirror Film ($20)
-* Spliter Extension Cord ($4.50)
-* Coputer Power Cord ($2)
-* HDTV to VGA Cable ($11)
-* 8-pack AAA Batteries ($4)
-* 200PC Popsicle Sticks ($6.50)
-
-* Total - $163
+* <a href="https://www.ikea.com/us/en/catalog/products/00378436/">IKEA Ribba Frame ($15)</a>
+* <a href="https://www.amazon.com/Raspberry-Essentials-Kit-board-Connectivity/dp/B01LWVVMUI">RASBERRY PI 3 Essentials Kit ($40 - used)</a>
+* <a href="https://www.amazon.com/gp/product/B009O847CQ/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1">PLANAR 22-inch LED Monitor ($60 - used)</a>
+* <a href="https://www.amazon.com/gp/product/B077Y56YYY/ref=oh_aui_detailpage_o07_s02?ie=UTF8&psc=1">Mirror Film ($20)</a>
+* <a href="https://www.amazon.com/gp/product/B000WTQ5NU/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Spliter Extension Cord ($4.50)</a>
+* <a href="https://www.amazon.com/gp/product/B00FBA1U6M/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1">Coputer Power Cord ($2)</a>
+* <a href="https://www.amazon.com/gp/product/B01CHL874K/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1">HDTV to VGA Cable ($11)</a>
+* <a href="https://www.amazon.com/gp/product/B00O869QUC/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1">8-pack AAA Batteries ($4)</a>
+* <a href="https://www.amazon.com/gp/product/B01ECBIQAI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1">200PC Popsicle Sticks ($6.50)</a>
+Total - $163
 
 Saved money by buying used what i could -
 

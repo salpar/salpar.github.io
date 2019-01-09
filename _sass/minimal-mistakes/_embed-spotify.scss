@@ -4,6 +4,7 @@
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  border-radius: $border-radius;
 }
 
 .embed-spotify iframe, .embed-spotify object, .embed-spotify embed {

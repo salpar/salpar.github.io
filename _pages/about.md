@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 title: "Hello"
 excerpt: "Hi"
 layouts_gallery:

@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "About me"
+permalink: /about
+title: "Hello"
 excerpt: "Hi"
 layouts_gallery:
   - url: /assets/images/about-1.jpg

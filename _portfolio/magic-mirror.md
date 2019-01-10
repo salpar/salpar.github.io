@@ -5,16 +5,12 @@ header:
   image: /assets/images/portfolio-atlanta.png
   teaser: /assets/images/portfolio-atlanta.png
 sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
   - title: "Tools"
     text: "Android Studio, Adobe Creative Suite"
   - title: "Skills"
     text: "Unit Testing"
   - title: "Languages"
-    text: "JavaScript"
+    text: "JavaScript, HTML/CSS"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

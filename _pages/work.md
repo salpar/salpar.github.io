@@ -1,6 +1,6 @@
 ---
 layout: collection
-permalink: /work/
+permalink: /
 collection: portfolio
 entries_layout: grid
 classes: wide

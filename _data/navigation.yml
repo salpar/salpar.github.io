@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "Work"
-    url: /work/
+    url: /
+  - title: "About"
+    url: /about/
   - title: "Inspiration"
     url: /inspiration/

@@ -103,8 +103,8 @@ analytics:
 author:
   name             :
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "Hey! I'm Sally, a 4th year Computer Science major at GA Tech.
-                        I focus on Front-End Development as well as UI/UX Design and Research. Feel free to reach out. ☕️🌱"
+  bio              : "Hey! I'm Sally, a UX Researcher & Engineer and 4th year Computer Science major at GA Tech.
+                        Feel free to reach out. ☕️🌱"
   location         : "Atlanta, GA"
   links:
     - label: "Email"

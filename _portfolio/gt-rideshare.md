@@ -1,14 +1,14 @@
 ---
 title: "GT RideShare"
-excerpt: "Designing a rideshare app meant to promote  ."
+excerpt: "Researched, designed, and prototyped a rideshare app designed for and by GA Tech Students to make carpooling an approachable and valuable experience."
 header:
   image: /assets/images/portfolio-atlanta.png
   teaser: /assets/images/portfolio-atlanta.png
 sidebar:
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "User Personas, "
   - title: "Tools"
-    text: "Android Studio, Adobe Creative Suite"
+    text: "Android Studio, Adobe Creative Suite, Sketch"
   - title: "Skills"
     text: "Rapid Prototyping"
   - title: "Languages"
@@ -28,12 +28,16 @@ classes: wide
 
 ## Challenge
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+    For my user interface class, I worked with a team of 5 to identify a task performed by a target user group that could be better supported through a novel design.  I suggested a rideshare app designed for and by GA Tech Students to make carpooling an approachable and valuable experience.
 
 ## Approach
+
+My team and I conducted extensive user research and created personas, user flows, and visual storyboards. Some key findings were the importance of factors like safety, comfort, and a simple, easy-to use interface. We created a few wireframes that reflected these needs and presented them to a number of focus groups, so we could test our assumptions and gain additional user insight. After making improvements through iterative design, we produced a low-fidelity prototype of GTRideShare and presented our findings. 
+
+
 
 {% include gallery caption="" %}
 
 ## Takeaways
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+     Through this experience  I learned the importance of frequent feedback and trying to understand others’ point of view. Also, rather than overloading users with too much information, it’s important to keep the design simple. 

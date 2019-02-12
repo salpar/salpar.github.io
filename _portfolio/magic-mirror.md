@@ -2,8 +2,8 @@
 title: "Magic Mirror"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/portfolio-atlanta.png
-  teaser: /assets/images/portfolio-atlanta.png
+  image: /assets/images/mirror.png
+  teaser: /assets/images/mirror.png
 sidebar:
   - title: "Tools"
     text: "Android Studio, Adobe Creative Suite"

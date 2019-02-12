@@ -6,7 +6,7 @@ header:
   teaser: assets/images/portfolio-atlanta.png
 sidebar:
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "UI Design"
   - title: "Tools"
     text: "Adobe Creative Suite"
   - title: "Skills"
@@ -26,12 +26,15 @@ classes: wide
 
 ## Challenge
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+     For this project, I collaborated with a team of 3 to produce a compilation of data analytics tools that would be beneficial for communities to use when seeking to implement effective and impactful civic engagement projects across different city concerns.
 
 ## Approach
+
+Through our research and stakeholder interviews, we were humbled to learn that it was important to be mindful of the fact that our audiences come from different backgrounds and places, all with varying income, technical skills, and access to resources. When researching different data analytics tools to include, we took into account all levels of expertise and always have accessibility in mind. I was responsible for all UI design decisions to create a visually delightful designs while maintaining style guidelines, and I implemented user research and insights, strategic thinking, and beautiful design into our high-fidelity prototype. We also included example data sets, used to illustrate the power and ease/complexity of each tool, and presented at GA Tech's 2017 SLS (Serve Learn Sustain) Showcase. 
+
 
 {% include gallery caption="" %}
 
 ## Takeaways
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+It was a great experience, and it taught me that to create a great user experience, I need to be humble and empathetic, to design with focus on the user, and to strive to create something universally accessible and useful.

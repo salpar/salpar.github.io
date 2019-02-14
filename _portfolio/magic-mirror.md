@@ -1,6 +1,6 @@
 ---
 title: "Magic Mirror"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Constructed and coded a smart mirror using an old computer monitor, an acrylic panel + two way mirror film, and other part.."
 header:
   image: /assets/images/mirror.png
   teaser: /assets/images/mirror.png
@@ -26,7 +26,7 @@ classes: wide
 
 ## Challenge
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This project involved me constructing and coding a smart mirror using an old computer monitor, an acrylic panel + two way mirror film, and other parts. I modified the weather display to remind me to grab an umbrella when its raining, and I implemented a module that shows upcoming movies with their Rotten Tomato score. I wanted to customize it even more, so I developed and added a module one that displays a quote I like, with a new one every 2 min.
 {% include gallery caption="" %}
 
 ## Approach
@@ -42,8 +42,6 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 * <a href="https://www.amazon.com/gp/product/B01ECBIQAI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1">200PC Popsicle Sticks ($6.50)</a>
 Total - $163
 
-Saved money by buying used what i could -
-
 ## Takeaways
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+This project seriously made me realize the importance of and joy in doing things outside of your schoolwork, and I'm really happy with how it turned out. Since building, I replaced the monitor with one that fit against the frame more, and I'm planning on more improvement in the future, like a camera.

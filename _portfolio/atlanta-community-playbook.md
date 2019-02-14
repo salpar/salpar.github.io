@@ -26,7 +26,7 @@ classes: wide
 
 ## Challenge
 
-     For this project, I collaborated with a team of 3 to produce a compilation of data analytics tools that would be beneficial for communities to use when seeking to implement effective and impactful civic engagement projects across different city concerns.
+For this project, I collaborated with a team of 3 to produce a compilation of data analytics tools that would be beneficial for communities to use when seeking to implement effective and impactful civic engagement projects across different city concerns.
 
 ## Approach
 
